@@ -1,3 +1,8 @@
+/**
+ * @author Alex
+ * @version 1.0
+ * @since 2026
+ */
 
 package javaapplication9;
 
